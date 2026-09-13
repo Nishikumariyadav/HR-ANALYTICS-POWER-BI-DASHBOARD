@@ -4,7 +4,7 @@ This project is an HR Analytics Dashboard created using Microsoft Power BI.
 The dashboard provides an overview of employee data and helps analyze employee attrition, demographics, education, job roles, marital status, and job satisfaction.
 The main objective of this project is to convert employee data into meaningful business insights that can help HR teams understand workforce trends and attrition patterns.
 ## Dashboard Preview
-![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Tools Used
 - Microsoft Power BI
